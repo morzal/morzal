@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morzal.  I am a meat popsicle
 - 👀 I’m interested in ... Code, Automation, and Cooking.
-- 🌱 I’m currently learning ... Maven and Terraform
+- 🌱 I’m currently learning ... Maven and Python3
 - 💞️ I’m looking to collaborate on ... Knowledge Gardening
 - 📫 How to reach me ... Smoke Signals usually.
 
